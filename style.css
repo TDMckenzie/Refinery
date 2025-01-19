@@ -16,3 +16,8 @@ main {
 h1, h2 {
     color: #333;
 }
+.resized-image {
+    width: 300px;
+    height: auto; /* Maintain the aspect ratio */
+  }
+  
