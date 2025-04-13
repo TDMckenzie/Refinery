@@ -1,23 +1,67 @@
+/* General Styles */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
+    background: linear-gradient(to bottom, #d4d4d4, #66cc66); /* Silver to green gradient */
+    color: #333; /* Default text color */
 }
+
+/* Header and Footer */
 header, footer {
-    background: #333;
-    color: #fff;
+    background: linear-gradient(to right, #66cc66, #d4d4d4); /* Green to silver gradient */
+    color: #fff; /* White text for contrast */
     text-align: center;
     padding: 1rem 0;
 }
+
+/* Main Content */
 main {
     padding: 1rem;
+    background: rgba(255, 255, 255, 0.8); /* Add slight opacity for a modern look */
+    border-radius: 10px; /* Rounded corners for a softer style */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
 }
+
+/* Headings */
 h1, h2 {
-    color: #333;
+    color: #005f00; /* Dark green */
 }
+
+/* Resized Images */
 .resized-image {
     width: 600px;
-    height: auto; /* Maintain the aspect ratio */
-  }
-  
+    height: auto; /* Maintain aspect ratio */
+    border: 2px solid #66cc66; /* Green border */
+    border-radius: 5px;
+    transition: transform 0.3s ease-in-out; /* Smooth hover effect */
+}
+.resized-image:hover {
+    transform: scale(1.1); /* Slight zoom on hover */
+}
+
+/* Navigation Bar */
+nav ul {
+    list-style: none; /* Remove bullets */
+    padding: 0;
+    display: flex; /* Horizontal layout */
+    justify-content: center;
+    background: #66cc66; /* Solid green background */
+    margin: 0;
+}
+
+nav ul li {
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff; /* White text */
+    font-weight: bold;
+    transition: color 0.3s ease-in-out; /* Smooth text color change */
+}
+
+nav ul li a:hover {
+    color: #d4d4d4; /* Silver hover effect */
+}
