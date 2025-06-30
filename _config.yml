@@ -13,31 +13,31 @@ title                    : "Travis McKenzie / The Data Refinery"
 title_separator          : "-"
 name                     : &name "Travis McKenzie"
 description              : &description "Welcome to my personal website, where I share my research, projects, and thoughts on data science and analytics."
-url                      : https://TDMckenzie.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : https://github.com/TDMckenzie # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : "/Refinery" # the subpath of your site, e.g. "/blog"
+repository               : "https://github.com/TDMckenzie/Refinery" # the URL of your repository, e.g. "https://github.com/[your GitHub username]/[your repo name]"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/assets/images/profile.png"
   name             : "Travis McKenzie"
   bio              : "Data Analyst and Researcher"
   location         : "Beaverton, OR"
   employer         : "Liberty Mutual Insurance"
-  uri              : # URL
+  uri              : "https://tdmckenzie.github.io/Refinery/"
   email            : "tdmckenzie@willamette.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -45,12 +45,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/TDMckenzie"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
