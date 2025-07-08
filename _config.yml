@@ -22,7 +22,7 @@ repository               : "https://github.com/TDMckenzie/Refinery" # the URL of
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Refinery/profile.png"
   name             : "Travis McKenzie"
   bio              : "Data Analyst and Researcher"
   location         : "Beaverton, OR"
