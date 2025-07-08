@@ -13,8 +13,8 @@ title                    : "Travis McKenzie / The Data Refinery"
 title_separator          : "-"
 name                     : &name "Travis McKenzie"
 description              : &description "Welcome to my personal website, where I share my research, projects, and thoughts on data science and analytics."
-url                      : https://github.com/TDMckenzie # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/Refinery" # the subpath of your site, e.g. "/blog"
+url                      : # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/TDMckenzie/Refinery" # the URL of your repository, e.g. "https://github.com/[your GitHub username]/[your repo name]"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
