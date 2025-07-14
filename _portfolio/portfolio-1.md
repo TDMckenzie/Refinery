@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Data Visualization in R - ggplot"
+excerpt: "Using ggplot, comparing team win performance<br/><img src='/images/Win_Comparison.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In my data visualization course, my project partner and I evaluated data related to the Portland Trail Blazers and Golden State Warriors.  This is one of the graphs that I created as part of that project.  It was created using ggplot in R.  Data was sourced from Kaggle.
