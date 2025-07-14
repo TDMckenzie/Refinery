@@ -1,6 +1,6 @@
 ---
 title: "Data Visualization in R - ggplot"
-excerpt: "Using ggplot, comparing team win performance<br/><img src='/images/Win_Comparison.png'>"
+excerpt: "Using ggplot, comparing team win performance<br/><img src='Refinery/images/Win_Comparison.png'>"
 collection: portfolio
 ---
 
