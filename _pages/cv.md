@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my full resume here:  
+[Download my resume (PDF)]({{ site.baseurl }}/files/resume.pdf)
+
 Education
 ======
 * M.S. in Data Science, Willamette University, 2025 (expected)
