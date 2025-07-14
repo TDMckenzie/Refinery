@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science, Willamette University, 2025 (expected)
+* B.S. in Business Administration (Finance Concentration, Minor in Economics) University of Oregon, 2008
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025-Current: Senior Business Analyst
+  * Liberty Mutual Insurance
+  * Duties included: Querying and analyzing data for the client service organization.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024: Data Science Rotation Assignment
+  * Liberty Mutual Insurance
+  * Duties included: Prompt engineering and statistical analysis.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2024: Claims Team Manager
+  * Liberty Mutual Insurance
+  * Duties included: Managing workers compensation claims teams
+
+* 2008-2018: Technical Claims Specialist
+  * Liberty Mutual Insurance
+  * Duties included: Workers compensation claims handling
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Science Technical Skills
+  * SQL
+  * R
+  * Python
+  * Power BI
+* Microsoft 365
+* Team Management
+* Claims Handling
 
-Publications
+Certifications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Chartered Property Casualty Underwriter (CPCU) - 2022
+* Associate in Risk Management (ARM) - 2017
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
