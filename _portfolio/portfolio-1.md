@@ -1,6 +1,6 @@
 ---
 title: "Data Visualization in R - ggplot"
-excerpt: "Using ggplot, comparing the Portland Trailblazers and Golden State Warriors"
+excerpt: "Using ggplot, comparing the Portland Trailblazers and Golden State Warriors<br/><img src='{{ site.baseurl }}/images/refinery_logo.jpeg' alt='Refinery Logo' width='120'>"
 collection: portfolio
 ---
 

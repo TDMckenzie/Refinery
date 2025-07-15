@@ -17,6 +17,22 @@ Education
 * M.S. in Data Science, Willamette University, 2025 (expected)
 * B.S. in Business Administration (Finance Concentration, Minor in Economics) University of Oregon, 2008
 
+Certifications
+======
+* Chartered Property Casualty Underwriter (CPCU) - 2022
+* Associate in Risk Management (ARM) - 2017
+
+Skills
+======
+* Data Science Technical Skills
+  * SQL
+  * R
+  * Python
+  * Power BI
+* Microsoft 365
+* Team Management
+* Claims Handling
+
 Work experience
 ======
 * 2025-Current: Senior Business Analyst
@@ -35,20 +51,7 @@ Work experience
   * Liberty Mutual Insurance
   * Duties included: Workers compensation claims handling
   
-Skills
-======
-* Data Science Technical Skills
-  * SQL
-  * R
-  * Python
-  * Power BI
-* Microsoft 365
-* Team Management
-* Claims Handling
 
-Certifications
-======
-* Chartered Property Casualty Underwriter (CPCU) - 2022
-* Associate in Risk Management (ARM) - 2017
+
   
 
