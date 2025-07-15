@@ -2,6 +2,7 @@
 title: "Data Visualization in R - ggplot"
 excerpt: "Using ggplot, comparing the Portland Trailblazers and Golden State Warriors"
 collection: portfolio
+date: 2025-07-13
 ---
 
 In my data visualization course, my project partner and I evaluated data related to the Portland Trail Blazers and Golden State Warriors.  Here are a few graphs that I created during this project.  Graphs were created using ggplot2 in R.  Data was sourced from Kaggle for seasons from 2010 - 2022.

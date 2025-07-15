@@ -2,6 +2,7 @@
 title: "Sales Engineering Project"
 excerpt: "Created a software solution for fictional company WWI.  We constructed a solution which involved facilitating sales forecasting in Power BI"
 collection: portfolio
+date: 2025-07-13
 ---
 
 Here is the PowerPoint from our final project from my sales engineering course..  There are a couple of slides which were live views of the Power BI dashboard that I created.  I have added a PDF of a couple of the views.
