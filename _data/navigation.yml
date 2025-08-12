@@ -25,9 +25,9 @@ main:
     
   - title: "CV & Resume"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
+
+  - title: "Data Science Capstone"
+    url: https://wu-msds-capstones.github.io/Medication_Pricing_Demographic_Analysis/
     
   # - title: "Guide"
   #   url: /markdown/
