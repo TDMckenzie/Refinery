@@ -19,15 +19,15 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Data Science Capstone Project"
+    url: https://wu-msds-capstones.github.io/Medication_Pricing_Demographic_Analysis/
         
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV & Resume"
     url: /cv/
-
-  - title: "Data Science Capstone"
-    url: https://wu-msds-capstones.github.io/Medication_Pricing_Demographic_Analysis/
     
   # - title: "Guide"
   #   url: /markdown/
